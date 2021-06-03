@@ -1,4 +1,5 @@
-***THIS IS A TEST, This is only a test.. do not use it, it wont work.. yet
+***THIS IS A TEST, This is only a test.. do not use it, it wont work.. yet***
+
 The Doge Tip Bot allows users to send the Dogecoin cryptocurrency to users using only their Twitter handle.
 
 
